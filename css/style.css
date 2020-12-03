@@ -1,18 +1,21 @@
 html, body {
     height: 100%;
-    
 }
+
 body {
-    background-image: linear-gradient(#f6b03ec5, #f10a0a41);
-    text-transform: capitalize;
-    font-size: 25px;
+    background-image:linear-gradient(#f6b03ec5, #f10a0a41), url("../img/praia.png");
+    background-size:100% 80%;
+    background-repeat: no-repeat;
     height: 600px;
-    padding: 15px;
-    
+    width:500px;
+    padding: 35px 15px;
+    text-transform: capitalize; 
+    font-size: 25px;
+
 }
 
 .radius {
-    background-image:linear-gradient(#ff8800, rgb(241, 187, 11), rgba(243, 50, 50, 0.5));
+    background-image: linear-gradient(#ff8800, rgb(241, 187, 11), rgba(243, 50, 50, 0.5));
     width: 200px;
     height: 200px;
     margin: 50px;
