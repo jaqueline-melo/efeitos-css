@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    background-image:linear-gradient(#f6b03ec5, #f10a0a41), url("../img/praia.png");
+    background-image:linear-gradient(#f6b03ec5, #f10a0a41);
     background-size:100% 80%;
     background-repeat: no-repeat;
     height: 600px;
@@ -22,9 +22,9 @@ body {
     border-radius: 100px;
     box-shadow: 10px 5px 10px 3px #00000046;
 }
-
+    
 h1 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: atronbttf,Arial, Helvetica;
     font-size: 50px;
     padding: 20px 15px;
     text-shadow: -1px 1px 0px #6e6c6c, -2px 2px 0px #929292, -3px 3px 0px #a09c9c, -4px 4px 0px #b8b5b5, -5px 5px 0px #e6e6e6;
